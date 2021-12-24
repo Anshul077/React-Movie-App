@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-DEMO OF APP: 
+DEMO OF APP: https://anshul077.github.io/React-Movie-App/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
